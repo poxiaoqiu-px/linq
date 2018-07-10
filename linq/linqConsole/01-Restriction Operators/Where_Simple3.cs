@@ -5,7 +5,7 @@ using System.Text;
 
 namespace linqConsole
 {
-    public class Where_Simple2
+    public class Where_Simple3
     {
         /// <summary>
         /// 点标记
@@ -14,12 +14,13 @@ namespace linqConsole
         {
             var productList = new ProductList();
             var soldOutProducts = productList.GetProductList();
-            Console.WriteLine("Where_Simple2 点标记");
-            //找出products中UnitsInStock == 0
-            var result = soldOutProducts.Where(t => t.UnitsInStock == 0);
+            Console.WriteLine();
+            Console.WriteLine("Where_Simple3 点标记");
+            //In-stock products that cost more than 3.00
+            var result = soldOutProducts.Where(t => t.UnitsInStock>0 && t.UnitPrice>3.0M);
             foreach (var item in result)
             {
-                Console.WriteLine($"{ item.ProductName} is sold out!");
+                Console.WriteLine($"{ item.ProductName} is in stock and costs more than 3.00.!");
             }
         }
         /// <summary>
@@ -30,14 +31,16 @@ namespace linqConsole
         {
             var productList = new ProductList();
             var soldOutProducts = productList.GetProductList();
-            Console.WriteLine("Where_Simple2 查询表达式");
-            //找出products中UnitsInStock == 0
+            Console.WriteLine();
+            Console.WriteLine("Where_Simple3 查询表达式");
+            //In-stock products that cost more than 3.00
             var result = from t in soldOutProducts
-                       where t.UnitsInStock == 0
+                       where t.UnitsInStock >0
+                              && t.UnitPrice>3.0M
                        select t;
             foreach (var item in result)
             {
-                Console.WriteLine($"{ item.ProductName} is sold out!");
+                Console.WriteLine($"{ item.ProductName} is in stock and costs more than 3.00.!");
             }
         }
     }

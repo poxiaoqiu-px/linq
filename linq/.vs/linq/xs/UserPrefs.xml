@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{FF55C505-E214-4A54-97B5-451888E34802}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="linqConsole/02-Projection Operators/Select_Anonymous _Types _1.cs">
+    <Files>
+      <File FileName="linqConsole/02-Projection Operators/Select_Simple1.cs" Line="33" Column="36" />
+      <File FileName="linqConsole/Program.cs" Line="60" Column="18" />
+      <File FileName="linqConsole/01-Restriction Operators/Where_Drilldown.cs" Line="34" Column="45" />
+      <File FileName="linqConsole/02-Projection Operators/Select_Simple2.cs" Line="18" Column="32" />
+      <File FileName="linqConsole/02-Projection Operators/Select_Transformation.cs" Line="36" Column="35" />
+      <File FileName="linqConsole/02-Projection Operators/Select_Anonymous _Types _1.cs" Line="33" Column="58" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.linq PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.linqConsole PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
