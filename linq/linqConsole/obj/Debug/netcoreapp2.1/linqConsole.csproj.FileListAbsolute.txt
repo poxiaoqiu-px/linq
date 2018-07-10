@@ -21,3 +21,4 @@ C:/git/px/linq/linq/linqConsole/obj/Debug/netcoreapp2.1/linqConsole.csprojAssemb
 /git/poxiaoqiu-px/linq/linq/linqConsole/obj/Debug/netcoreapp2.1/linqConsole.AssemblyInfo.cs
 /git/poxiaoqiu-px/linq/linq/linqConsole/obj/Debug/netcoreapp2.1/linqConsole.dll
 /git/poxiaoqiu-px/linq/linq/linqConsole/obj/Debug/netcoreapp2.1/linqConsole.pdb
+/git/poxiaoqiu-px/linq/linq/linqConsole/obj/Debug/netcoreapp2.1/linqConsole.csprojResolveAssemblyReference.cache

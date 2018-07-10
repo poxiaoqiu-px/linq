@@ -61,9 +61,15 @@ namespace linqConsole
             #endregion
 
             #region Select_Anonymous_Types_1
-            Select_Anonymous_Types_1 linq9 = new Select_Anonymous_Types_1();
-            linq9.Show();
-            linq9.Show(0);
+            //Select_Anonymous_Types_1 linq9 = new Select_Anonymous_Types_1();
+            //linq9.Show();
+            //linq9.Show(0);
+            #endregion
+
+            #region Select_Anonymous_Types_2
+            Select_Anonymous_Types_2 linq10 = new Select_Anonymous_Types_2();
+            linq10.Show();
+            linq10.Show(0);
             #endregion
 
             #endregion
