@@ -1,0 +1,12 @@
+C:\git\px\linq\linq\linqConsole\bin\Debug\netcoreapp2.1\linqConsole.deps.json
+C:\git\px\linq\linq\linqConsole\bin\Debug\netcoreapp2.1\linqConsole.runtimeconfig.json
+C:\git\px\linq\linq\linqConsole\bin\Debug\netcoreapp2.1\linqConsole.runtimeconfig.dev.json
+C:\git\px\linq\linq\linqConsole\bin\Debug\netcoreapp2.1\linqConsole.dll
+C:\git\px\linq\linq\linqConsole\bin\Debug\netcoreapp2.1\linqConsole.pdb
+C:\git\px\linq\linq\linqConsole\obj\Debug\netcoreapp2.1\linqConsole.csproj.CoreCompileInputs.cache
+C:\git\px\linq\linq\linqConsole\obj\Debug\netcoreapp2.1\linqConsole.AssemblyInfoInputs.cache
+C:\git\px\linq\linq\linqConsole\obj\Debug\netcoreapp2.1\linqConsole.AssemblyInfo.cs
+C:\git\px\linq\linq\linqConsole\obj\Debug\netcoreapp2.1\linqConsole.dll
+C:\git\px\linq\linq\linqConsole\obj\Debug\netcoreapp2.1\linqConsole.pdb
+C:\git\px\linq\linq\linqConsole\bin\Debug\netcoreapp2.1\Customers.xml
+C:\git\px\linq\linq\linqConsole\obj\Debug\netcoreapp2.1\linqConsole.csprojAssemblyReference.cache
