@@ -681,28 +681,30 @@
     ]
   },
   "packageFolders": {
-    "/Users/poxiaoqiu/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\qiuzh\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/git/poxiaoqiu-px/linq/linq/linqConsole/linqConsole.csproj",
+      "projectUniqueName": "C:\\git\\px\\linq\\linq\\linqConsole\\linqConsole.csproj",
       "projectName": "linqConsole",
-      "projectPath": "/git/poxiaoqiu-px/linq/linq/linqConsole/linqConsole.csproj",
-      "packagesPath": "/Users/poxiaoqiu/.nuget/packages/",
-      "outputPath": "/git/poxiaoqiu-px/linq/linq/linqConsole/obj",
+      "projectPath": "C:\\git\\px\\linq\\linq\\linqConsole\\linqConsole.csproj",
+      "packagesPath": "C:\\Users\\qiuzh\\.nuget\\packages\\",
+      "outputPath": "C:\\git\\px\\linq\\linq\\linqConsole\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/poxiaoqiu/.config/NuGet/NuGet.Config"
+        "C:\\Users\\qiuzh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -720,9 +722,8 @@
       "netcoreapp2.1": {
         "dependencies": {
           "Microsoft.NETCore.App": {
-            "suppressParent": "All",
             "target": "Package",
-            "version": "2.1.0",
+            "version": "[2.1.0, )",
             "autoReferenced": true
           }
         },
