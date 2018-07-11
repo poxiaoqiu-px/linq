@@ -10,8 +10,4 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
   </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="02-Projection Operators\" />
-  </ItemGroup>
 </Project>

@@ -67,9 +67,27 @@ namespace linqConsole
             #endregion
 
             #region Select_Anonymous_Types_2
-            Select_Anonymous_Types_2 linq10 = new Select_Anonymous_Types_2();
-            linq10.Show();
-            linq10.Show(0);
+            //Select_Anonymous_Types_2 linq10 = new Select_Anonymous_Types_2();
+            //linq10.Show();
+            //linq10.Show(0);
+            #endregion
+
+            #region Select_Anonymous_Types_3
+            //Select_Anonymous_Types_3 linq11 = new Select_Anonymous_Types_3();
+            //linq11.Show();
+            //linq11.Show(0);
+            #endregion
+
+            #region Select_Indexed
+            //Select_Indexed linq12 = new Select_Indexed();
+            //linq12.Show();
+            //linq12.Show(0);
+            #endregion
+
+            #region Select_Filtered
+            Select_Filtered linq13 = new Select_Filtered();
+            linq13.Show();
+            linq13.Show(0);
             #endregion
 
             #endregion
