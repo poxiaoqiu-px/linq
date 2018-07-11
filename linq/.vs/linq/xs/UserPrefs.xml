@@ -1,13 +1,14 @@
 ﻿<Properties StartupConfiguration="{FF55C505-E214-4A54-97B5-451888E34802}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="linqConsole/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="linqConsole/04-Ordering Operators/OrderByDescending_Comparer.cs">
     <Files>
-      <File FileName="linqConsole/02-Projection Operators/Select_Simple1.cs" Line="33" Column="36" />
-      <File FileName="linqConsole/Program.cs" Line="74" Column="13" />
-      <File FileName="linqConsole/01-Restriction Operators/Where_Drilldown.cs" Line="34" Column="45" />
-      <File FileName="linqConsole/02-Projection Operators/Select_Simple2.cs" Line="18" Column="32" />
-      <File FileName="linqConsole/02-Projection Operators/Select_Transformation.cs" Line="36" Column="35" />
-      <File FileName="linqConsole/02-Projection Operators/Select_Anonymous _Types _1.cs" Line="42" Column="9" />
-      <File FileName="linqConsole/02-Projection Operators/Select_Anonymous _Types _2.cs" Line="41" Column="41" />
+      <File FileName="linqConsole/Program.cs" Line="211" Column="19" />
+      <File FileName="linqConsole/04-Ordering Operators/OrderBy_SImple_1.cs" Line="30" Column="48" />
+      <File FileName="linqConsole/04-Ordering Operators/OrderBy_SImple_2.cs" Line="33" Column="42" />
+      <File FileName="linqConsole/04-Ordering Operators/OrderBy_SImple_3.cs" Line="21" Column="1" />
+      <File FileName="linqConsole/04-Ordering Operators/OrderBy_Comparer.cs" Line="49" Column="60" />
+      <File FileName="linqConsole/04-Ordering Operators/OrderByDescending_SImple_1.cs" Line="30" Column="58" />
+      <File FileName="linqConsole/04-Ordering Operators/OrderByDescending_SImple_2.cs" Line="42" Column="10" />
+      <File FileName="linqConsole/04-Ordering Operators/OrderByDescending_Comparer.cs" Line="8" Column="44" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

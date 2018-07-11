@@ -11506,30 +11506,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\qiuzh\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/poxiaoqiu/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\git\\px\\linq\\linq\\linq\\linq.csproj",
+      "projectUniqueName": "/git/poxiaoqiu-px/linq/linq/linq/linq.csproj",
       "projectName": "linq",
-      "projectPath": "C:\\git\\px\\linq\\linq\\linq\\linq.csproj",
-      "packagesPath": "C:\\Users\\qiuzh\\.nuget\\packages\\",
-      "outputPath": "C:\\git\\px\\linq\\linq\\linq\\obj\\",
+      "projectPath": "/git/poxiaoqiu-px/linq/linq/linq/linq.csproj",
+      "packagesPath": "/Users/poxiaoqiu/.nuget/packages/",
+      "outputPath": "/git/poxiaoqiu-px/linq/linq/linq/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\qiuzh\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/poxiaoqiu/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -11546,16 +11544,16 @@
     "frameworks": {
       "netcoreapp2.1": {
         "dependencies": {
+          "Microsoft.NETCore.App": {
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "2.1.0",
+            "autoReferenced": true
+          },
           "Microsoft.AspNetCore.App": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "[2.1.0, )",
-            "autoReferenced": true
-          },
-          "Microsoft.NETCore.App": {
-            "target": "Package",
-            "version": "[2.1.0, )",
-            "autoReferenced": true
+            "version": "2.1.0"
           }
         },
         "imports": [
