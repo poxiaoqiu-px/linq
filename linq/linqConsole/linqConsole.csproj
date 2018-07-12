@@ -10,4 +10,14 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
   </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="02-Projection Operators\SelectMany_Compound_from_Assignment %28copy%29.cs" />
+    <Compile Remove="Partitioning Operators\SelectMany_Muliple_from.cs" />
+    <Compile Remove="Partitioning Operators\Take_SImple %28copy%29.cs" />
+    <Compile Remove="03-Partitioning Operators\Take_SImple %28copy%29.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="03-Partitioning Operators\" />
+    <Folder Include="04-Ordering Operators\" />
+  </ItemGroup>
 </Project>
