@@ -15,9 +15,14 @@
     <Compile Remove="Partitioning Operators\SelectMany_Muliple_from.cs" />
     <Compile Remove="Partitioning Operators\Take_SImple %28copy%29.cs" />
     <Compile Remove="03-Partitioning Operators\Take_SImple %28copy%29.cs" />
+    <Compile Remove="04-Ordering Operators\ThenBy_SImple %28copy%29.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="03-Partitioning Operators\" />
     <Folder Include="04-Ordering Operators\" />
+    <Folder Include="05-Grouping Operators\" />
+    <Folder Include="06-Set Operators\" />
+    <Folder Include="07-Conversion Operators\" />
+    <Folder Include="08-Element Operators\" />
   </ItemGroup>
 </Project>

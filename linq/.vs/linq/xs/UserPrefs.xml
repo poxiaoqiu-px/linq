@@ -1,19 +1,17 @@
 ﻿<Properties StartupConfiguration="{FF55C505-E214-4A54-97B5-451888E34802}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="linqConsole/04-Ordering Operators/OrderByDescending_Comparer.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="linqConsole/08-Element Operators/ElementAt.cs">
     <Files>
-      <File FileName="linqConsole/Program.cs" Line="211" Column="19" />
-      <File FileName="linqConsole/04-Ordering Operators/OrderBy_SImple_1.cs" Line="30" Column="48" />
-      <File FileName="linqConsole/04-Ordering Operators/OrderBy_SImple_2.cs" Line="33" Column="42" />
-      <File FileName="linqConsole/04-Ordering Operators/OrderBy_SImple_3.cs" Line="21" Column="1" />
-      <File FileName="linqConsole/04-Ordering Operators/OrderBy_Comparer.cs" Line="49" Column="60" />
-      <File FileName="linqConsole/04-Ordering Operators/OrderByDescending_SImple_1.cs" Line="30" Column="58" />
-      <File FileName="linqConsole/04-Ordering Operators/OrderByDescending_SImple_2.cs" Line="42" Column="10" />
-      <File FileName="linqConsole/04-Ordering Operators/OrderByDescending_Comparer.cs" Line="8" Column="44" />
+      <File FileName="linqConsole/Program.cs" Line="382" Column="23" />
+      <File FileName="linqConsole/08-Element Operators/FirstOrDefault_Condition.cs" Line="10" Column="23" />
+      <File FileName="linqConsole/08-Element Operators/FirstOrDefault_Indexed.cs" Line="21" Column="1" />
+      <File FileName="linqConsole/08-Element Operators/ElementAt.cs" Line="7" Column="27" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/git/poxiaoqiu-px/linq/linq/linqConsole/05-Grouping Operators/GroupBy_Simple_3.cs" relfile="linqConsole/05-Grouping Operators/GroupBy_Simple_3.cs" line="45" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.linq PreferredExecutionTarget="MonoDevelop.Default" />

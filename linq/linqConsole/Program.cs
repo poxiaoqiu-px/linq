@@ -212,9 +212,179 @@ namespace linqConsole
             #endregion
 
             #region OrderByDescending_Comparer
-            OrderByDescending_Comparer linq34 = new OrderByDescending_Comparer();
-            linq34.Show();
-            linq34.Show(0);
+            //OrderByDescending_Comparer linq34 = new OrderByDescending_Comparer();
+            //linq34.Show();
+            //linq34.Show(0);
+            #endregion
+
+            #region ThenBy_SImple
+            //ThenBy_SImple linq35 = new ThenBy_SImple();
+            //linq35.Show();
+            //linq35.Show(0);
+            #endregion
+
+            #region ThenBy_Comparer
+            //ThenBy_Comparer linq36 = new ThenBy_Comparer();
+            //linq36.Show();
+            //linq36.Show(0);
+            #endregion
+
+            #region ThenByDescending_SImple
+            //ThenByDescending_SImple linq37 = new ThenByDescending_SImple();
+            //linq37.Show();
+            //linq37.Show(0);
+            #endregion
+
+            #region ThenByDescending_Comparer
+            //ThenByDescending_Comparer linq38 = new ThenByDescending_Comparer();
+            //linq38.Show();
+            //linq38.Show(0);
+            #endregion
+
+            #region Reverse
+            //Reverse linq39 = new Reverse();
+            //linq39.Show();
+            //linq39.Show(0);
+            #endregion
+
+            #region GroupBy_Simple_1
+            //GroupBy_Simple_1 linq40 = new GroupBy_Simple_1();
+            //linq40.Show();
+            //linq40.Show(0);
+            #endregion
+
+            #region GroupBy_Simple_2
+            //GroupBy_Simple_2 linq41 = new GroupBy_Simple_2();
+            //linq41.Show();
+            //linq41.Show(0);
+            #endregion
+
+            #region GroupBy_Simple_3
+            //GroupBy_Simple_3 linq42 = new GroupBy_Simple_3();
+            //linq42.Show();
+            //linq42.Show(0);
+            #endregion
+
+            #region GroupBy_Nested
+            //GroupBy_Nested linq43 = new GroupBy_Nested();
+            //linq43.Show();
+            //linq43.Show(0);
+            #endregion
+
+            #region GroupBy_Comparer
+            //GroupBy_Comparer linq44 = new GroupBy_Comparer();
+            //linq44.Show();
+            //linq44.Show(0);
+            #endregion
+
+            #region GroupBy_Comparer_Mapped
+            //GroupBy_Comparer_Mapped linq45 = new GroupBy_Comparer_Mapped();
+            //linq45.Show();
+            //linq45.Show(0);
+            #endregion
+
+            #region Distinct_1
+            //Distinct_1 linq46 = new Distinct_1();
+            //linq46.Show();
+            //linq46.Show(0);
+            #endregion
+
+            #region Distinct_2
+            //Distinct_2 linq47 = new Distinct_2();
+            //linq47.Show();
+            //linq47.Show(0);
+            #endregion
+
+            #region Union_1
+            //Union_1 linq48 = new Union_1();
+            //linq48.Show();
+            //linq48.Show(0);
+            #endregion
+
+            #region Union_2
+            //Union_2 linq49 = new Union_2();
+            //linq49.Show();
+            //linq49.Show(0);
+            #endregion
+
+            #region Intersect_1
+            //Intersect_1 linq50 = new Intersect_1();
+            //linq50.Show();
+            //linq50.Show(0);
+            #endregion
+
+            #region Intersect_2
+            //Intersect_2 linq51 = new Intersect_2();
+            //linq51.Show();
+            //linq51.Show(0);
+            #endregion
+
+
+            #region Except_1
+            //Except_1 linq52 = new Except_1();
+            //linq52.Show();
+            //linq52.Show(0);
+            #endregion
+
+            #region Except_2
+            //Except_2 linq53 = new Except_2();
+            //linq53.Show();
+            //linq53.Show(0);
+            #endregion
+
+            #region To_Array
+            //To_Array linq54 = new To_Array();
+            //linq54.Show();
+            //linq54.Show(0);
+            #endregion
+
+            #region To_List
+            //To_List linq55 = new To_List();
+            //linq55.Show();
+            //linq55.Show(0);
+            #endregion
+
+            #region To_Dictionary
+            //To_Dictionary linq56 = new To_Dictionary();
+            //linq56.Show();
+            //linq56.Show(0);
+            #endregion
+
+
+            #region OfType
+            //OfType linq57 = new OfType();
+            //linq57.Show();
+            //linq57.Show(0);
+            #endregion
+
+            #region First_Simple
+            //First_Simple linq58 = new First_Simple();
+            //linq58.Show();
+            #endregion
+
+            #region First_Indexed
+            //First_Indexed linq60 = new First_Indexed();
+            //linq60.Show();
+            #endregion
+
+            #region FirstOrDefault_Simple
+            //FirstOrDefault_Simple linq61 = new FirstOrDefault_Simple();
+            //linq61.Show();
+            #endregion
+
+            #region FirstOrDefault_Condition
+            //FirstOrDefault_Condition linq62 = new FirstOrDefault_Condition();
+            //linq62.Show();
+            #endregion
+
+            #region FirstOrDefault_Indexed
+            //FirstOrDefault_Indexed linq63 = new FirstOrDefault_Indexed();
+            //linq63.Show();
+            #endregion
+
+            #region ElementAt
+            ElementAt linq64 = new ElementAt();
+            linq64.Show();
             #endregion
 
             #endregion
