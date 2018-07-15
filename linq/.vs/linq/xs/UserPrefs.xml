@@ -1,10 +1,11 @@
 ﻿<Properties StartupConfiguration="{FF55C505-E214-4A54-97B5-451888E34802}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="linqConsole/08-Element Operators/ElementAt.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="linqConsole/11-Aggregate Operators/Count_Group.cs">
     <Files>
-      <File FileName="linqConsole/Program.cs" Line="382" Column="23" />
-      <File FileName="linqConsole/08-Element Operators/FirstOrDefault_Condition.cs" Line="10" Column="23" />
-      <File FileName="linqConsole/08-Element Operators/FirstOrDefault_Indexed.cs" Line="21" Column="1" />
-      <File FileName="linqConsole/08-Element Operators/ElementAt.cs" Line="7" Column="27" />
+      <File FileName="linqConsole/Program.cs" Line="446" Column="51" />
+      <File FileName="linqConsole/11-Aggregate Operators/Count_Conditional.cs" Line="8" Column="18" />
+      <File FileName="linqConsole/11-Aggregate Operators/Count_Indexed.cs" Line="11" Column="10" />
+      <File FileName="linqConsole/11-Aggregate Operators/Count_Nested.cs" Line="20" Column="14" />
+      <File FileName="linqConsole/11-Aggregate Operators/Count_Group.cs" Line="8" Column="29" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

@@ -383,8 +383,73 @@ namespace linqConsole
             #endregion
 
             #region ElementAt
-            ElementAt linq64 = new ElementAt();
-            linq64.Show();
+            //ElementAt linq64 = new ElementAt();
+            //linq64.Show();
+            #endregion
+
+            #region Range
+            //Range_1 linq65 = new Range_1();
+            //linq65.Show();
+            #endregion
+
+            #region Repeat
+            //Repeat_1 linq66 = new Repeat_1();
+            //linq66.Show();
+            #endregion
+
+            #region Any_Simple
+            //Any_Simple linq67 = new Any_Simple();
+            //linq67.Show();
+            #endregion
+
+            #region Any_Indexed
+            //Any_Indexed linq68 = new Any_Indexed();
+            //linq68.Show();
+            #endregion
+
+            #region Any_Group
+            Any_Group linq69 = new Any_Group();
+            linq69.Show();
+            #endregion
+
+            #region All_Simple
+            //All_Simple linq70 = new All_Simple();
+            //linq70.Show();
+            #endregion
+
+            #region All_Indexed
+            //All_Indexed linq71 = new All_Indexed();
+            //linq71.Show();
+            #endregion
+
+            #region All_Group
+            //All_Group linq72 = new All_Group();
+            //linq72.Show();
+            #endregion
+
+            #region Count_Simple
+            //Count_Simple linq73 = new Count_Simple();
+            //linq73.Show();
+            #endregion
+
+            //#region Count_Conditional
+            //Count_Conditional linq74 = new Count_Conditional();
+            //linq74.Show();
+            //#endregion
+
+            #region Count_Indexed
+            //Count_Indexed linq75 = new Count_Indexed();
+            //linq75.Show();
+            #endregion
+
+            #region Count_Nested
+            //Count_Nested linq76 = new Count_Nested();
+            //linq76.Show();
+            #endregion
+
+            #region Count_Group
+            Count_Group linq77 = new Count_Group();
+            linq77.Show();
             #endregion
 
             #endregion

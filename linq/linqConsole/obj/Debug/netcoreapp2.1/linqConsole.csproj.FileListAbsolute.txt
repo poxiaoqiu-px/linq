@@ -22,3 +22,5 @@ C:/git/px/linq/linq/linqConsole/obj/Debug/netcoreapp2.1/linqConsole.AssemblyInfo
 C:/git/px/linq/linq/linqConsole/obj/Debug/netcoreapp2.1/linqConsole.AssemblyInfo.cs
 C:/git/px/linq/linq/linqConsole/obj/Debug/netcoreapp2.1/linqConsole.dll
 C:/git/px/linq/linq/linqConsole/obj/Debug/netcoreapp2.1/linqConsole.pdb
+/git/poxiaoqiu-px/linq/linq/linqConsole/bin/Debug/netcoreapp2.1/Microsoft.EntityFrameworkCore.Relational.dll
+/git/poxiaoqiu-px/linq/linq/linqConsole/bin/Debug/netcoreapp2.1/Microsoft.EntityFrameworkCore.Relational.xml

@@ -24,5 +24,13 @@
     <Folder Include="06-Set Operators\" />
     <Folder Include="07-Conversion Operators\" />
     <Folder Include="08-Element Operators\" />
+    <Folder Include="09-Generation Operators\" />
+    <Folder Include="10-Quantifiers\" />
+    <Folder Include="11-Aggregate Operators\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.EntityFrameworkCore.Relational">
+      <HintPath>..\..\..\..\..\usr\local\share\dotnet\sdk\NuGetFallbackFolder\microsoft.entityframeworkcore.relational\2.1.0\lib\netstandard2.0\Microsoft.EntityFrameworkCore.Relational.dll</HintPath>
+    </Reference>
   </ItemGroup>
 </Project>
